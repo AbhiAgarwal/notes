@@ -75,5 +75,4 @@ np.mean(c[~np.isnan(c)])
 
 # finds datatype of the functions
 c.dtype
-
 ```

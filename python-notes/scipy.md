@@ -30,5 +30,4 @@ y = y[~sp.isnan(y)]
 # to use plots and things we can use
 # matplotlib.pyplot
 # import matplotlib.pyplot as plt
-
 ```
