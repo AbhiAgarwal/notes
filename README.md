@@ -28,7 +28,9 @@ Away from academia
 - Marketing
 - Entreprunership
 
-**[Machine Learning](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms)**
+**Specifics**
+
+[Machine Learning](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms)
 
 - Supervised learning
   - Statistical classification
