@@ -2,10 +2,12 @@ Reference the Wiki page.
 
 **Things to learn**
 
+To give me a good general background in Computer Science, and allow me to branch out in the future - I want to study the following things at University. I want to build on them and to understand how these things operate, and be able to apply most of these concepts.
+
 - Artificial Intelligence (NLP, Vision, Speech, Movement)
 - Robotics (Mechanics, Electrical, Computer)
 - Parallel Programming (OpenCL, OpenMP, CUDA)
-- Languages (Node.js, Javascript, Python, Haskell, Java, C++)
+- Languages (~~Node.js, Javascript, Python,~~ Haskell, ~~Java, C++~~)
 - Computer Vision (OpenCV), and Computer Graphics
 - Machine Learning (Theory, and Frameworks (scikit-learn, etc))
 - Deep Learning (Neural nets)
