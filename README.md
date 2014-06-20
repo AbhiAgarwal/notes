@@ -2,7 +2,9 @@ Reference the Wiki page.
 
 **Things to learn**
 
-To give me a good general background in Computer Science, and allow me to branch out in the future - I want to study the following things at University. I want to build on them and to understand how these things operate, and be able to apply most of these concepts.
+<p>To give me a good general background in Computer Science, and allow me to branch out in the future - I want to study the following things at University. I want to build on them and to understand how these things operate, and be able to apply most of these concepts.</p>
+
+<p>Crossing out doesn't mean I have reached my goal in these languages, but just means that I have developed a decent understanding of them</p>
 
 - Artificial Intelligence (NLP, Vision, Speech, Movement)
 - Robotics (Mechanics, Electrical, Computer)
@@ -13,7 +15,7 @@ To give me a good general background in Computer Science, and allow me to branch
 - Deep Learning (Neural nets)
 - Mathematics (Linear Algebra, Inequality)
 - Physics (Kinemetics)
-- Simulation (N-body, diseases, traffic, movement, social)
+- Simulation (~~N-body, diseases, traffic~~, movement, social)
 
 Away from academia
 
