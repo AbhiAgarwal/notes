@@ -27,3 +27,16 @@ Away from academia
 - Social Media (How people response/react to)
 - Marketing
 - Entreprunership
+
+**[Machine Learning](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms)**
+
+- Supervised learning
+  - Statistical classification
+- Unsupervised learning
+  - Artificial neural network
+  - Association rule learning
+  - Hierarchical clustering
+  - Cluster analysis
+  - Outlier Detection
+- Reinforcement learning
+- Deep learning
