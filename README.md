@@ -16,7 +16,7 @@ Reference the Wiki page.
 - Computer Vision (OpenCV), and Computer Graphics
 - Machine Learning (Theory, Frameworks (scikit-learn, etc), and Kaggle)
 - Deep Learning (Neural nets)
-- Mathematics (Linear Algebra, Inequality)
+- Mathematics (Linear Algebra, Inequality, Dimensionality, Calculus)
 - Physics (Kinemetics)
 - Simulation (~~N-body, Diseases, Traffic~~, Movement, Social)
 - Networking (Packets, TCP/IP, Packet Sniffing)
