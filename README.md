@@ -22,7 +22,6 @@ Reference the Wiki page.
 - Networking (Packets, TCP/IP, Packet Sniffing)
 - Competitive Programming (~~UVA, Algorithmic efficiency~~)
 - Data Compression techniques (Lossy, Lossless Compression, and theory (Entropy, etc. ))
-- 
 
 <p>Interests in understanding these concepts</p>
 
