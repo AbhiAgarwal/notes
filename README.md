@@ -14,17 +14,20 @@ Reference the Wiki page.
 - Parallel Programming (OpenCL, OpenMP, CUDA)
 - Languages (~~Node.js, Javascript, Python,~~ Haskell, ~~Java, C++~~)
 - Computer Vision (OpenCV), and Computer Graphics
-- Machine Learning (Theory, Frameworks (scikit-learn, etc), and Kaggle)
+- Machine Learning (Theory, Frameworks (scikit-learn, etc), and Kaggle Implementations)
 - Deep Learning (Neural nets)
 - Mathematics (Linear Algebra, Inequality, Dimensionality, Calculus)
 - Physics (Kinemetics)
 - Simulation (~~N-body, Diseases, Traffic~~, Movement, Social)
 - Networking (Packets, TCP/IP, Packet Sniffing)
 - Competitive Programming (~~UVA, Algorithmic efficiency~~)
+- Data Compression techniques (Lossy, Lossless Compression, and theory (Entropy, etc. ))
+- 
 
 <p>Interests in understanding these concepts</p>
 
 - Brain (Visual cortex -> V1, V2, ..., Neurons, etc)
+- The Maze Idea (in Startup Engineering Course)
 
 <p>Away from academia</p>
 
