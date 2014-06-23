@@ -22,7 +22,11 @@ Reference the Wiki page.
 - Networking (Packets, TCP/IP, Packet Sniffing)
 - Competitive Programming (~~UVA, Algorithmic efficiency~~)
 
-Away from academia
+<p>Interests in understanding these concepts</p>
+
+- Brain (Visual cortex -> V1, V2, ..., Neurons, etc)
+
+<p>Away from academia</p>
 
 - Social Media (How people response/react to)
 - Marketing
