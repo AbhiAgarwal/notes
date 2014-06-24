@@ -27,6 +27,7 @@ Reference the Wiki page.
 
 - Brain (Visual cortex -> V1, V2, ..., Neurons, etc)
 - The Maze Idea (in Startup Engineering Course)
+- Facial Detection, and Recognition in Computer Vision extensively
 
 <p>Away from academia</p>
 
