@@ -84,11 +84,51 @@ Bitcoin is an experimental new digital currency that enables instant payments to
 
 <img src="http://images.rapgenius.com/34416a885a331715330987ac346111d8.1000x295x1.png" alt="Drawing" style="width: 400px;"/>	
 
+- The proof-of-work also solves the problem of determining representation in majority decision making.
+	- Proof-of-work is essentially one-CPU-one-vote. 
+		- If the majority were based on one-IP-address-one-vote, it could be subverted by anyone able to allocate many IPs. So proof-of-work is beneficial here.
+	- The majority decision is represented by the longest chain, which has the greatest proof-of-work effort invested in it.
+	- If a majority of CPU power is controlled by honest nodes, the honest chain will grow the fastest and outpace any competing chains.
+		- To modify a past block, an attacker would have to redo the proof-of-work of the block and all blocks after it and then catch up with and surpass the work of the honest nodes. 
+		- To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour. 
+			- If they're generated too fast, the difficulty increases.
+
 **Blockchain**
 
 - The Blockchain enables a network of distributed nodes to achieve consensus — to agree on the common state of the network — by each proving that they had participated in that network through the proof-of-work system.
 	- Take a Sudoku … it’s actually hard to figure out which numbers fit into the squares, [but] it’s very easy to check if the Sudoku’s right … easy to verify … hard to solve …. The proof-of-work which is used in Bitcoin is exactly the same, easy to verify very hard to solve.
 	- https://www.youtube.com/watch?v=JP9-lAYngi4#t=87
+
+**Network**
+
+- A new block is generated every 10 minutes, and it is generally prudent for parties to wait for at least 6 new blocks in order for the transaction to be considered complete. 10 minutes is the time it takes for nodes (miners) in the network to “find a proof-of-work” (solve the mathematical puzzle created by SHA-256). 
+
+- When the puzzle is solved by a miner and as long as the majority of the network agrees that the transactions in the block are valid, the block is added to the network. Off-blockchain transactions within a Bitcoin network are instantaneous.
+
+- Steps to run the network:
+
+	1. New transactions are broadcast to all nodes.
+	2. Each node collects new transactions into a block.
+	3. Each node works on finding a difficult proof-of-work for its block.
+	4. When a node finds a proof-of-work, it broadcasts the block to all nodes.
+	5. Nodes accept the block only if all transactions in it are valid and not already spent.
+	6. Nodes express their acceptance of the block by working on creating the next block in the chain, using the hash of the accepted block as the previous hash.
+
+- Nodes always consider the longest chain to be the correct one and will keep working on extending it.
+- If two nodes broadcast different versions of the next block simultaneously, some nodes may receive one or the other first. 
+	- In that case, they work on the first one they received, but save the other branch in case it becomes longer. The tie will be broken when the next proof of-work is found and one branch becomes longer; the nodes that were working on the other branch will then switch to the longer one.
+
+- New transaction broadcasts do not necessarily need to reach all nodes. As long as they reach many nodes, they will get into a block before long. 
+	- Block broadcasts are also tolerant of dropped messages. If a node does not receive a block, it will request it when it receives the next block and realizes it missed one.
+
+**Blockchain fork**
+
+- A blockchain fork occurred on March 12, 2013 due to a bug in Bitcoin-Qt version 0.7 that caused different nodes in the network to believe that different versions of the blockchain were correct. Just as Satoshi described in the paper, the longer chain ended up winning.
+- [Read more](http://www.reddit.com/r/Bitcoin/comments/1a51xx/now_that_its_over_the_blockchain_fork_explained/)
+
+**Incentive**
+
+
 
 **Sources**
 
@@ -99,9 +139,11 @@ Bitcoin is an experimental new digital currency that enables instant payments to
 
 **Further Reading**
 
+- http://www.reddit.com/r/Bitcoin/comments/18kt6y/psa_to_new_users_due_to_reddit_gold_announcement/
 - http://bitcoinbook.info
 - https://bitcoin.org/en/how-it-works
 - http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
 - http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/
 - http://www.youtube.com/channel/UCgo7FCCPuylVk4luP3JAgVw/videos
 - https://github.com/bitcoin/bitcoin
+- http://www.reddit.com/r/Bitcoin/comments/1a51xx/now_that_its_over_the_blockchain_fork_explained/

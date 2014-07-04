@@ -5,3 +5,8 @@
 
 - Horizontal or extensive progress basically means copying things that work.
 	- China is going for Horizontal progress. 
+
+- [Interesting](http://blakemasters.com/post/20400301508/cs183class1):
+	- Path’s limiting its users to 150 “friends” is illustrative of this point. 
+	- Ancient tribes apparently had a natural size limit that didn’t much exceed that number. 
+	- Startups are important because they are small; if the size and complexity of a business is something like the square of the number of people in it, then startups are in a unique position to lower interpersonal or internal costs and thus to get stuff done.
