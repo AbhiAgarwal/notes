@@ -1,4 +1,4 @@
-Reference the Wiki page.
+**Reference the Wiki page for my quick notes.**
 
 **Things to learn**
 
@@ -35,9 +35,14 @@ Reference the Wiki page.
 - Marketing
 - Entreprunership
 
-Writing
-=======
+**Writing**
 
 My own personal writing on topics I think are worth learning and understanding. I will write them as I learn so I can share the process of learning these things. I'll leave them for people to read as I write them as well.
 
 - [Automatic facial detection and recognition](./Automatic facial detection and recognition.md)
+- [Startups](./startups.md)
+- [Bitcoin](./bitcoin.md)
+
+**My Log**
+
+I log what I learn everyday [here](./log.md)
