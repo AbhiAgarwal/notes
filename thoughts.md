@@ -10,3 +10,13 @@
 	- Path’s limiting its users to 150 “friends” is illustrative of this point. 
 	- Ancient tribes apparently had a natural size limit that didn’t much exceed that number. 
 	- Startups are important because they are small; if the size and complexity of a business is something like the square of the number of people in it, then startups are in a unique position to lower interpersonal or internal costs and thus to get stuff done.
+
+- Learning everything is quite useless. Learn things you think are important, and you think are going to change how you feel about whatever you do.
+	- For example, if you enjoy doing (X), and you aren't satisfied with it then how can you change (X) to your benefit? 
+	- Then see if everyone else agrees. If not then build it anyways, and see if it works. If you don't like it - try something else!
+	- Try development by things you like, and test them out. If you like them then keep them, and move on. Don't try and form ideas based on what the market needs - I think there's a good need for many things in the market. 
+		- But you should target things you like because you don't want to waste your time just building random crap, and building a company you just want for money.
+		- Money to live is easy to come by if you want it to. Or if you've a decent education. There's money in the world somewhere for you - so don't start a company just for it. It will turn out that it will be harder for you in the long run.
+	- Build a company you clearly think will succeed in the long run. Don't try and build things like a timer for a pancake maker, or a timer for anything that can be done using some common sense.
+	- Think of big ideas, and things that you think could influence the world. Technologies that could change what you think of the world, and how you would want to interact with it.
+	- Anything you want to see in the real world that you think could really change how you use the Internet or change how you use technology, or even physical objects.

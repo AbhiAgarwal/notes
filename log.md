@@ -24,3 +24,6 @@ Monday 30 June to Friday 4 July
 - Programming: Learn intermediate Go
 
 Monday 7 July to Friday 11 July
+
+- Programming: Learn intermediate Go, and maybe some Swift
+- Startups: Peter Thiel’s CS183: Startup Notes
