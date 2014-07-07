@@ -18,6 +18,10 @@ Projects
 	- Evaluating the JSON using Python and Pandas
 - Gamification Library 
 	- Built in NodeJS.
+- Traffic analysis
+	- Analysis of traffic that occurs in Bangkok, Thailand
+	- Getting data from [Traffy Information Portal API](http://its.nectec.or.th)
+	- Built in Go
 
 **Done**
 
