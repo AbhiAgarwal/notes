@@ -1,3 +1,5 @@
+My written notes are all over the place, and so is my writing. So I'm going to try and centralize it here for myself.
+
 **Reference the Wiki page for my quick notes.**
 
 **Things to learn**
@@ -7,6 +9,8 @@
 <p>Crossing out doesn't mean I have reached my goal in these languages, but just means that I have developed a decent understanding of them</p>
 
 <p>I want to try and understand these ideas. Not just from a developer's prespective, but also from a mathematicians side. So that means that try and understand how they are implemented, and not just how to use them.</p>
+
+<p>Also these are concepts I want to learn on a more fundamental level. These concepts are fairly hard to start approach on a more advanced level.</p>
 
 - Algorithm Design
 - Artificial Intelligence (NLP, Vision, Speech, Movement)
@@ -29,6 +33,28 @@
 - The Maze Idea (in Startup Engineering Course)
 - Facial Detection, and Recognition in Computer Vision extensively
 
+<p>More simpler things to understand</p>
+
+1. Version control
+2. Regular Expressions
+3. Linux Commands
+    - Sed
+    - Awk
+    - Grep
+4. Vim
+5. NoSQL/SQL
+6. AWS
+7. Unit testing
+    - Browser testing
+8. Graph Theory
+9. Distributed Systems
+10. Map/reduce
+11. LaTeX
+12. Design Patterns
+13. Memory Management
+14. Micro-controllers
+15. Machine Learning & Data Analysis
+
 <p>Away from academia</p>
 
 - Social Media (How people response/react to)
@@ -37,7 +63,7 @@
 
 **Writing**
 
-My own personal writing on topics I think are worth learning and understanding. I will write them as I learn so I can share the process of learning these things. I'll leave them for people to read as I write them as well.
+<p>My own personal writing on topics I think are worth learning and understanding. I will write them as I learn so I can share the process of learning these things. I'll leave them for people to read as I write them as well.</p>
 
 - [Automatic facial detection and recognition](./Automatic facial detection and recognition.md)
 - [Startups](./startups.md)
@@ -45,4 +71,4 @@ My own personal writing on topics I think are worth learning and understanding. 
 
 **My Log**
 
-I log what I learn everyday [here](./log.md)
+<p>I log what I learn everyday [here](./log.md)</p>
