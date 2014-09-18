@@ -3,28 +3,36 @@ Projects
 
 **Now**
 
+- oneNYU.com, a central place for information at NYU.
+	- News, Events, People@NYU
+	- Redis, NodeJS, etc.
 - Learnt.io, memory retention
 	- NodeJS, MongoDB, Dynamo (Personal), and I think a graph database in the future
-- Dynamo, javascript web framework
-	- Built on NodeJS and ExpressJS
 - Algorithm Library, a library for computer science algorithms
-	- C++/Python/Java
-- Facial detection, and iris detection
-	- Built ontop of Python for now then port to C++
-- Mapping Links of Wikipedia articles
+	- C++/Python/Java/Go
+- ~~Mapping Links of Wikipedia articles~~
 	- Built ontop of Python, and Neo4j
-- Football
-	- Scraping Wikipedia using Python, and BeautifulSoup
-	- Evaluating the JSON using Python and Pandas
-- Gamification Library 
-	- Built in NodeJS.
+	- Built this, and graphed this -> Look for imporvements.
 - Traffic analysis
 	- Analysis of traffic that occurs in Bangkok, Thailand
 	- Getting data from [Traffy Information Portal API](http://its.nectec.or.th)
 	- Built in Go
 
+**Saved**
+
+- Gamification Library 
+	- Built in NodeJS.
+- Facial detection, and iris detection
+	- Built ontop of Python for now then port to C++
+	- OpenCV
+
 **Done**
 
+- Football - 2014
+	- Scraping Wikipedia using Python, and BeautifulSoup
+	- Evaluating the JSON using Python and Pandas
+- Dynamo, javascript web framework - 2014
+	- Built on NodeJS and ExpressJS
 - Simulation - 2014
 	- N-body (Matlab)
 	- Diseases (Matlab)
@@ -49,8 +57,11 @@ Internships
 
 - Med - 2011 (Java)
 - Aptech - 2011 (PHP, C#, Java)
+- Housing Department at NYU - 2014 (C#, MSSQL)
 
 Research
 ========
 
 - Prime numbers in Computer Security - 2011 (Java)
+- Storing/Mapping Knowledge - 2014 (Python/Node.JS)
+- Traffic, N-Body, and Diseases - 2014 (Matlab)

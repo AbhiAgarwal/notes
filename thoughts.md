@@ -1,3 +1,15 @@
+- OneNYU
+	- Peopl@NYU
+		- I think this is very important thing to do at NYU. It's to give everyone a voice and a name. Everyone can be heard, and everyone can share their projects, their ideas, and just express themselves.
+			- I don't know what the best way of doing this is, but we can take pictures of students from Instagram or people on Twitter, etc.
+	- Events
+		- Abhinay does this well with his app. But I think it's incredible to bring in Meetup, and other platforms into this.
+	- Platform
+		- I can surely use Tech@NYU's platform as inspiration to this. Ethan does some incredible work on it, and I like the structure of the application. Maybe think about this.
+	- Redis
+		- We can power this by Redis. We are able to put all of these things into key-value stores, and then load them. We just need to run a seperate background application to get this data and put it into a key-value store then filter. 
+		- Doing this without extensive caching will kill everything and the website will surely die.
+
 - Traditional education is designed for people to scale to everyone. The current education system is designed to be the best for most individuals, but not every individual fits into the system. 
 	- It's thought to have designed for a society of people where you only need what you learn at college to get a job. That's clearly not true anymore, there's a lot more in play now then a college education. People now have to do a lot more things than before to guarantee a job in the future, and so people now do internships, and research even during their school work. 
 	- MBA's were created at the time where it was becoming harder and harder to get a job, and because society needed more specialist people than before because the education system wasn't able to keep up. So they created Business Schools, but the current education system hasn't been able to keep up with the skills required today. 

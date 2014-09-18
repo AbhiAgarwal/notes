@@ -1,12 +1,23 @@
-Monday 9 June to Friday 13 June
+Monday 22 September to Friday 26 September
 
-- Productivity: Establish notes, and setup to-do
-- Computer Vision: OpenCV and Facial Detection, and understanding theory behind it
+Monday 15 September to Friday 19 September
 
-Monday 16 June to Friday 20 June
+- Programming: C++, and algorithmic look over
+- Interviews: Google
+- Projects: Start development on oneNYU
+- Classwork: Reading on Darwin and Quantification, and Compiler Homework
 
-- Parallel Programming: OpenCL
-- Computer Vision: OpenCV and Facial Recognition
+Monday 7 July to Friday 11 July
+
+- Programming: Learn intermediate Go, and maybe some Swift
+- Startups: Peter Thiel’s CS183: Startup Notes
+
+Monday 30 June to Friday 4 July
+
+- Data analytics: Football
+- Bitcoin: Bitcoin: A Peer-to-Peer Electronic Cash System paper, and reading through Bitcoin Core
+- Startups: Peter Thiel’s CS183: Startup Notes
+- Programming: Learn intermediate Go
 
 Monday 23 June to Friday 27 June
 
@@ -16,14 +27,12 @@ Monday 23 June to Friday 27 June
 - Computer Vision: Cascade Classifier Training, Haar-cascade classifier
 - Startups: The Maze Idea
 
-Monday 30 June to Friday 4 July
+Monday 16 June to Friday 20 June
 
-- Data analytics: Football
-- Bitcoin: Bitcoin: A Peer-to-Peer Electronic Cash System paper, and reading through Bitcoin Core
-- Startups: Peter Thiel’s CS183: Startup Notes
-- Programming: Learn intermediate Go
+- Parallel Programming: OpenCL
+- Computer Vision: OpenCV and Facial Recognition
 
-Monday 7 July to Friday 11 July
+Monday 9 June to Friday 13 June
 
-- Programming: Learn intermediate Go, and maybe some Swift
-- Startups: Peter Thiel’s CS183: Startup Notes
+- Productivity: Establish notes, and setup to-do
+- Computer Vision: OpenCV and Facial Detection, and understanding theory behind it
