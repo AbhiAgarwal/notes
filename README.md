@@ -1,5 +1,7 @@
 My written notes are all over the place, and so is my writing. So I'm going to try and centralize it here for myself.
 
+Concentration on languages: C++, Javascript, and Go. I'm just going to be using these languages for the next couple years of my life - it's better to perfect myself with a couple languages rather than having learnt all the languages not too well.
+
 **Reference the Wiki page for my quick notes.**
 
 **Things to learn**
@@ -33,23 +35,24 @@ My written notes are all over the place, and so is my writing. So I'm going to t
 - The Maze Idea (in Startup Engineering Course)
 - Facial Detection, and Recognition in Computer Vision extensively
 
-<p>More simpler things to understand</p>
+<p>More simpler things to understand, and just play around with</p>
 
-1. Version control
-2. Regular Expressions
+1. ~~Version control~~
+2. ~~Regular Expressions~~
 3. Linux Commands
     - Sed
     - Awk
-    - Grep
-4. Vim
-5. NoSQL/SQL
+    - ~~Grep~~
+4. ~~Vim~~
+5. ~~NoSQL/SQL~~
 6. AWS
 7. Unit testing
     - Browser testing
+    - Test environments
 8. Graph Theory
 9. Distributed Systems
 10. Map/reduce
-11. LaTeX
+11. ~~LaTeX~~
 12. Design Patterns
 13. Memory Management
 14. Micro-controllers

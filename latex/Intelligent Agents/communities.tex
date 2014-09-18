@@ -1,0 +1,92 @@
+\documentclass[12pt,leqno,oneside]{book}
+\usepackage{amsmath,amssymb,amsfonts} 
+\usepackage{graphics}                 
+\usepackage{color}                    
+\usepackage{amsthm}
+\usepackage{enumerate}
+\usepackage{mathrsfs}
+\usepackage[colorlinks = true, linkcolor = black, citecolor = black, final]{hyperref}
+\usepackage{tikz}
+
+\parindent 1cm
+\parskip 0.2cm
+\topmargin 0.2cm
+\oddsidemargin 1cm
+\evensidemargin 0.5cm
+\textwidth 15cm
+\textheight 21cm 
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+
+\theoremstyle{definition}
+\newtheorem{defn}[theorem]{Definition}
+\newtheorem{ex}[theorem]{Example}
+\newtheorem{exer}[theorem]{Exercise}
+\newtheorem{refer}[theorem]{Reflection}
+
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{note}[theorem]{Note}
+\newtheorem{caut}[theorem]{CAUTION}
+
+\makeatletter
+\def\blfootnote{\xdef\@thefnmark{}\@footnotetext}
+\makeatother
+
+\def\R{\mathbb{ R}}
+\def\Z{\mathbb{ Z}}
+\def\Q{\mathbb{ Q}}
+\def\S{\mathbb{ S}}
+\def\I{\mathbb{ I}}
+\def\N{\mathbb{N}}
+\def\ra{\Rightarrow}
+\def\lra{\Leftrightarrow}
+\def\ul{\underline}
+
+\newcommand{\ds}{\displaystyle}
+\newcommand{\comp}{\widetilde}
+\newcommand{\scr}{\mathscr}
+\newcommand{\dom}{\text{Dom}}
+\newcommand{\ran}{\text{Ran}}
+
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside \ifodd\c@page\else
+    \hbox{}
+    \thispagestyle{plain}
+    \newpage
+    \if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother \clearpage{\pagestyle{plain}\cleardoublepage}
+
+\title{Can Intelligence Agents form Communities?}
+\author{Abhi Agarwal} 
+\begin{document}
+
+\maketitle
+\frontmatter
+\newpage
+
+\mainmatter
+
+\begin{center}
+{\small\em Basis for Analysis}
+\end{center}
+
+\begin{enumerate}
+\item Propositional logic is a simple language consisting of propositional symbols and logical connectives. It can handle propositions that are known true, known false, or completely unknown.
+\item A knowledge-based agent is composed of a knowledge base and an interface mechanism. It operates by storing sentences about the world in its knowledge base, using the interface mechanism to infer new sentences, and using these sentences to decide what action to take.
+\item Intelligent agents need knowledge about the world in order to reach good decisions.
+\end{enumerate}
+
+\begin{center}
+{\small\em Papers for Analysis}
+\end{center}
+
+\begin{enumerate}
+\item Programs with Common Sense, John McCarthy.
+\item The Knowledge Level, Allen Newell
+\end{enumerate}
+
+\end{document}
