@@ -1,5 +1,9 @@
 Monday 22 September to Friday 26 September
 
+- Projects: Started development on Mercent with Phil and Cheryl
+- Programming: C++
+- Classwork: Reading on Darwin and Quantification, Compiler Homework & Project 1, Paper for Quantification
+
 Monday 15 September to Friday 19 September
 
 - Programming: C++, and algorithmic look over
