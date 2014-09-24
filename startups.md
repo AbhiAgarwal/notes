@@ -1,3 +1,23 @@
+# How to Start a Startup class
+
+- http://www.youtube.com/watch?v=CBYhVcO4WgI
+- Time allocation: talk to customers & build product
+- Build something small number of users love and something that when developed more people can love
+	- You make something that a lot of users like a little bit or small number of users love
+		- Much easier to expand from small number of users love
+		- Expand from small number of users > Expand from lots of users who like
+	- If you get this wrong then you can do everything well, but still fail
+	- This is one thing you need to care about until it is working
+	- iPhone was the first smartphone people really loved
+- User Feedback -> Product Decision -> Show it to Users cycle
+	- User Feedback: What do they like? What would they pay for? What would make them recommend it?
+	- Watch them use it
+	- Would they be bummed if the company goes away?
+- Focus on growth: Total registrations, active users, activity levels, cohort retention, revenue, net promoter score
+- There's an opportunity cost of time of the people who follow you in your project. You're the lead - you're the boss, and you can't waste their time if you don't know what your idea is or can't execute on it.
+- Option pool creation
+	- The option pool is a way of attracting talented employees to a startup company - if the employees help the company do well enough to go public, they will be compensated with stock
+
 # Startup Notes
 
 <h3>My notes from Peter Thiel’s CS183: Startup - Class Notes</h3>

@@ -58,6 +58,15 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 14. Micro-controllers
 15. Machine Learning & Data Analysis
 
+<p>Build Systems</p>
+
+1. Makefile
+2. Ant
+3. Gradle
+4. Maven
+5. Google's build system - http://google-engtools.blogspot.com/2011/08/build-in-cloud-how-build-system-works.html
+6 Pants (Twitter, Foursquare) - aka Python Ant
+
 <p>Away from academia</p>
 
 - Social Media (How people response/react to)
