@@ -65,7 +65,7 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 3. Gradle
 4. Maven
 5. Google's build system - http://google-engtools.blogspot.com/2011/08/build-in-cloud-how-build-system-works.html
-6 Pants (Twitter, Foursquare) - aka Python Ant
+6. Pants (Twitter, Foursquare) - aka Python Ant
 
 <p>Away from academia</p>
 
