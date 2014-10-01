@@ -1,3 +1,10 @@
+Monday 29 September to Friday 3 October
+
+- Projects: Wikipedia Graph, Javascript with Type
+- Programming: Node.JS, Hacs for Compiler Construction
+- Classwork: Compiler Project 1 & Homework, Paper for Darwin, Quantification Response
+- Reading: 
+
 Monday 22 September to Friday 26 September
 
 - Projects: Started development on Mercent with Phil and Cheryl
