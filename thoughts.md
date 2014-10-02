@@ -1,3 +1,5 @@
+I want to become an expert on knowledge, and how it can be represented. I'm very passionate about starting things that have to revolve around knowledge, and how one can maintain and build it.
+
 - OneNYU
 	- Peopl@NYU
 		- I think this is very important thing to do at NYU. It's to give everyone a voice and a name. Everyone can be heard, and everyone can share their projects, their ideas, and just express themselves.
