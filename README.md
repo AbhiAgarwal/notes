@@ -73,9 +73,10 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 - Marketing
 - Entreprunership
 
-<p>Cool frameworks</p>
+<p>Non-native Mobile Devleopment</p>
 
 - http://ionicframework.com/
+- Reading: http://engineering.heroku.com/blogs/2014-10-02-heroku-mobile-app-template
 
 **Writing**
 
