@@ -73,6 +73,10 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 - Marketing
 - Entreprunership
 
+<p>Cool frameworks</p>
+
+- http://ionicframework.com/
+
 **Writing**
 
 <p>My own personal writing on topics I think are worth learning and understanding. I will write them as I learn so I can share the process of learning these things. I'll leave them for people to read as I write them as well.</p>
