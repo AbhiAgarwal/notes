@@ -1,3 +1,5 @@
+From this talk: https://www.youtube.com/watch?v=jsiqvXi3qSA
+
 Common uses for Node
 
 - Template generation
@@ -19,7 +21,3 @@ Common Problems
     - you can't really do anything about this
 - Simulataneous requests are allowed until process falters
   - Do performance metrics!! Find a sweet spot and find limits of your application
-
-Talks
-
-- https://www.youtube.com/watch?v=jsiqvXi3qSA
