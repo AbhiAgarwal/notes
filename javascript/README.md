@@ -6,3 +6,8 @@ Profiling
 String vs Array concatenation
 
 - http://jsperf.com/string-vs-array-concat/2
+
+Cool functions
+
+- encodeURIComponent()
+- '10' * '10 == 100
