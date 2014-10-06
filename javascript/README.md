@@ -10,4 +10,4 @@ String vs Array concatenation
 Cool functions
 
 - encodeURIComponent()
-- '10' * '10 == 100
+- '10' * '10' == 100
