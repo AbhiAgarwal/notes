@@ -1,0 +1,20 @@
+\documentclass{article}
+\usepackage{microtype}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{bera}
+\pagestyle{empty}
+\linespread{1.2}
+\begin{document}
+\frenchspacing
+\noindent
+{\LARGE 9 Bitstream Vera}\\
+~\\
+The digital revolution demanded types that looked consistent and readable even when viewed at lower resolutions. This gave rise to a square-looking and widely spaced new category of fonts, of which Bitstream Charter and Adobe Utopia were the first real examples. After Charter's success, the Bitstream foundry worked together with the Gnome Foundation to produce Bitstream Vera, a serif font specifically designed for low resolution computer screens. The large x-height and wide, open letters make Vera easy to read even at very small sizes.
+
+\fontsize{9pt}{1em}
+{\fontfamily{DejaVuSerif-TLF}\selectfont
+The latest incarnation of Vera is the DejaVu font family, which have mostly replaced the default Vera in most Linux distributions. Although Wikipedia states that DejaVu ``maintains the original look and feel'' of Vera, I myself cannot find \emph{any} visual difference between \textbackslash{}usepackage\{bera\} and \textbackslash{}usepackage\{dejavu\}. To illustrate, this paragraph is set in 9pt DejaVu, while the previous paragraph is set in 10pt Vera. Really!
+}
+
+\end{document}

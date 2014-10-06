@@ -1,0 +1,52 @@
+body {
+  width: 720px;
+  margin: 50px auto;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, Palladia, Pagella, serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 2em;
+  padding: 0;
+  margin: 0;
+}
+h2 {
+  font-weight: normal;
+  font-size: 1.25em;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  width: 720px;
+}
+
+p {
+  padding: 0.5em 0em;
+}
+
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline;}
+
+.latex {
+  letter-spacing: 1px;
+}
+
+.latex sup {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.85em;
+  vertical-align: 0.15em;
+  margin-left: -0.36em;
+  margin-right: -0.15em;
+}
+
+.latex sub {
+  text-transform: uppercase;
+  vertical-align: -0.5ex;
+  margin-left: -0.1667em;
+  margin-right: -0.125em;
+  font-size: 1em;
+}
