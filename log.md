@@ -1,9 +1,17 @@
+Monday 6 October to Friday 10 October
+
+- Projects: Wikipedia Graph
+- Programming: Node.JS
+- Frameworks: Apache Kafka, and a bunch more
+- Classwork: Compiler Homework 5, Reading for Darwin & Quantification, Quantificiation Response
+- Reading: The Origin of Species, Zero to One, Astronaut's Guide to Earth, and On Suicide
+
 Monday 29 September to Friday 3 October
 
-- Projects: Wikipedia Graph, Javascript with Type
+- Projects: Wikipedia Graph, Javascript with Type (.jst)
 - Programming: Node.JS, Hacs for Compiler Construction
 - Classwork: Compiler Project 1 & Homework, Paper for Darwin, Quantification Response
-- Reading: 
+- Reading: The Origin of Species, Zero to One, Astronaut's Guide to Earth
 
 Monday 22 September to Friday 26 September
 
