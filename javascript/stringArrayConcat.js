@@ -36,3 +36,14 @@ while (dest.length < 100) {
   }
 }
 dest = dest.join('');
+
+// Prep code
+var precompiled = 'apple';
+while (precompiled.length < 100) {
+  var offs = precompiled.length - 5;
+  for (var i = offs; i < offs + 10; ++i) {
+    // calling charAt(i) on `precompiled` will
+    // flatten the string in most engines
+    precompiled += precompiled.charAt(i);
+  }
+}
