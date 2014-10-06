@@ -67,6 +67,10 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 5. Google's build system - http://google-engtools.blogspot.com/2011/08/build-in-cloud-how-build-system-works.html
 6. Pants (Twitter, Foursquare) - aka Python Ant
 
+<p>Messaging Systems</p>
+
+1. Apache Kafka - http://kafka.apache.org/
+
 <p>Away from academia</p>
 
 - Social Media (How people response/react to)
@@ -77,15 +81,3 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 
 - http://ionicframework.com/
 - Reading: http://engineering.heroku.com/blogs/2014-10-02-heroku-mobile-app-template
-
-**Writing**
-
-<p>My own personal writing on topics I think are worth learning and understanding. I will write them as I learn so I can share the process of learning these things. I'll leave them for people to read as I write them as well.</p>
-
-- [Automatic facial detection and recognition](./Automatic facial detection and recognition.md)
-- [Startups](./startups.md)
-- [Bitcoin](./bitcoin.md)
-
-**My Log**
-
-<p>I log what I learn everyday [here](./log.md)</p>
