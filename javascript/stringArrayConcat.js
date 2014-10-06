@@ -1,3 +1,5 @@
+// Source: http://jsperf.com/string-vs-array-concat/2
+
 // String w/o flattening
 var dest = 'apple';
 while (dest.length < 100) {
