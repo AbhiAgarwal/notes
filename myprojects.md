@@ -11,12 +11,16 @@ Projects
 - Algorithm Library, a library for computer science algorithms
 	- C++/Python/Java/Go
 - ~~Mapping Links of Wikipedia articles~~
+	- Primary built ontop of Python, MongoDB, and Python shelves
+	- Secondary built ontop of Python, and Redis.
 	- Built ontop of Python, and Neo4j
 	- Built this, and graphed this -> Look for imporvements.
 - Traffic analysis
 	- Analysis of traffic that occurs in Bangkok, Thailand
 	- Getting data from [Traffy Information Portal API](http://its.nectec.or.th)
 	- Built in Go
+- Analysis of Instagram pictures to predict male/female.
+	- Built on Python
 
 **Saved**
 
