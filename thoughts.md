@@ -1,4 +1,8 @@
-I want to become an expert on knowledge, and how it can be represented. I'm very passionate about starting things that have to revolve around knowledge, and how one can maintain and build it.
+- The world is quite easy to change, and people have been changing it for a while without knowing. The every day person makes a change. For example, take artificial selection. Animal breeders used to take species are breed them in some way to get some result - it did change the world because now we might not have a breed we had before because it adapted, and changed in lots of ways. They could've taken the cow that gave the most milk, and wasn't the whitest because they didn't care about the milk, but now we don't have the same white cows anymore.
+	- Just shows impact of an individual person as through his life-time he can make a small change that leaves his part of the world without something or with something new.
+
+- I want to become an expert on knowledge, and how it can be represented. I'm very passionate about starting things that have to revolve around knowledge, and how one can maintain and build it.
+	- The best way to make a difference in something is to become an expert at it.
 
 - OneNYU
 	- Peopl@NYU
