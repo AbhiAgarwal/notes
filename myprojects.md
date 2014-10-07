@@ -3,22 +3,13 @@ Projects
 
 **Now**
 
-- oneNYU.com, a central place for information at NYU.
-	- News, Events, People@NYU
-	- Redis, NodeJS, etc.
 - Learnt.io, memory retention
 	- NodeJS, MongoDB, Dynamo (Personal), and I think a graph database in the future
-- Algorithm Library, a library for computer science algorithms
-	- C++/Python/Java/Go
 - ~~Mapping Links of Wikipedia articles~~
 	- Primary built ontop of Python, MongoDB, and Python shelves
 	- Secondary built ontop of Python, and Redis.
 	- Built ontop of Python, and Neo4j
 	- Built this, and graphed this -> Look for imporvements.
-- Traffic analysis
-	- Analysis of traffic that occurs in Bangkok, Thailand
-	- Getting data from [Traffy Information Portal API](http://its.nectec.or.th)
-	- Built in Go
 - Analysis of Instagram pictures to predict male/female.
 	- Built on Python
 
@@ -29,6 +20,15 @@ Projects
 - Facial detection, and iris detection
 	- Built ontop of Python for now then port to C++
 	- OpenCV
+- Algorithm Library, a library for computer science algorithms
+	- C++/Python/Java/Go
+- Traffic analysis
+	- Analysis of traffic that occurs in Bangkok, Thailand
+	- Getting data from [Traffy Information Portal API](http://its.nectec.or.th)
+	- Built in Go
+- oneNYU.com, a central place for information at NYU.
+	- News, Events, People@NYU
+	- Redis, NodeJS, etc.
 
 **Done**
 
