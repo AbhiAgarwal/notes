@@ -15,6 +15,15 @@ Projects
 - Analysis of Instagram pictures to predict male/female.
 	- Built on Python
 
+**Plain ideas**
+
+- Taking data from CrunchBase Data
+	- http://info.crunchbase.com/about/crunchbase-data-exports/
+- Analysis on how long startups take to raise money:: focus on duration
+- Questions like: How long do companies exist before raising money? How long do companies last between rounds?
+- Further Questions: What do they spend their money on? Looking at past data, and average spending per engineer and rent.
+- Clarify this: Does raising a round mean you are out of money? or just need more to grow faster?
+
 **Saved**
 
 - Gamification Library 
