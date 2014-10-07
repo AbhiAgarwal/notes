@@ -19,10 +19,13 @@ Projects
 
 - Taking data from CrunchBase Data
 	- http://info.crunchbase.com/about/crunchbase-data-exports/
-- Analysis on how long startups take to raise money:: focus on duration
-- Questions like: How long do companies exist before raising money? How long do companies last between rounds?
-- Further Questions: What do they spend their money on? Looking at past data, and average spending per engineer and rent.
-- Clarify this: Does raising a round mean you are out of money? or just need more to grow faster?
+	- Analysis on how long startups take to raise money:: focus on duration
+	- Questions like: How long do companies exist before raising money? How long do companies last between rounds?
+	- Further Questions: What do they spend their money on? Looking at past data, and average spending per engineer and rent.
+	- Clarify this: Does raising a round mean you are out of money? or just need more to grow faster?
+
+- Darwin's Tree of Life idea
+	- Visualizations of what species are left now comparing to what started with for each specific species?
 
 **Saved**
 
