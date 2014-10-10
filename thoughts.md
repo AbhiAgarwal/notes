@@ -1,3 +1,6 @@
+- When writing code you've to try and understand the APIs you are calling. The stack behind them is important. For example in Twitter's API their time formating is done using Ruby's time formating, and so you've to try and understand that before you parse things, and just look at how Ruby's stdlib handles it rather than just parsing it.
+	- Consider the stacks behind the API.
+
 - The world is quite easy to change, and people have been changing it for a while without knowing. The every day person makes a change. For example, take artificial selection. Animal breeders used to take species are breed them in some way to get some result - it did change the world because now we might not have a breed we had before because it adapted, and changed in lots of ways. They could've taken the cow that gave the most milk, and wasn't the whitest because they didn't care about the milk, but now we don't have the same white cows anymore.
 	- Just shows impact of an individual person as through his life-time he can make a small change that leaves his part of the world without something or with something new.
 
