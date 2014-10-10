@@ -1,7 +1,9 @@
+Monday 13 October to Friday 17 October
+
 Monday 6 October to Friday 10 October
 
-- Projects: Wikipedia Graph
-- Programming: Node.JS
+- Projects: Wikipedia Graph, Simple programs in Haskell, Building a web framework in Go
+- Programming: Node.JS, Go, Haskell
 - Frameworks: Apache Kafka, and a bunch more
 - Classwork: Compiler Homework 5, Reading for Darwin & Quantification, Quantificiation Response
 - Reading: The Origin of Species, Zero to One, Astronaut's Guide to Earth, and On Suicide
