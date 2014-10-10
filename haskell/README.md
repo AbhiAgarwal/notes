@@ -1,4 +1,4 @@
-# Simple syntax
+#Simple syntax
 
 - Division is not integer division by default
 	- 3/3 == 1.0
@@ -17,3 +17,6 @@
 	- + is only defined for numbers
 - Adding something to list you could do 5:[1..2]
 - List operations: head [1..5], tail [1..5], init [1..5], last [1..5]
+- `[x | x <- [1..5]]` [manipulation of x | definition of x]
+	- [x * 2 | x <- [1..5]]
+	- [x | x <- [1..5], x * 2 > 4] x is [1..5] given the filter x * 2 > 4
