@@ -1,3 +1,4 @@
+# Mac Specific
 .DS_Store
 .AppleDouble
 .LSOverride
@@ -20,4 +21,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# API tokens
 twitter-conf.json
