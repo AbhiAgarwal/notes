@@ -23,6 +23,7 @@ Temporary Items
 
 # API tokens
 twitter-conf.json
+twitter.conf
 
 # Haskell
 dist

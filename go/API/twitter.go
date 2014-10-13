@@ -1,36 +1,32 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	anaconda "github.com/ChimeraCoder/anaconda"
+	"github.com/abhiagarwal/goconf"
 	"net/url"
-	"os"
 )
 
-type Configuration struct {
-	ConsumerKey       string
-	ConsumerSecret    string
-	AccessToken       string
-	AccessTokenSecret string
-}
-
-func getConfiguration() Configuration {
-	file, _ := os.Open("twitter-conf.json")
-	decoder := json.NewDecoder(file)
-	configuration := Configuration{}
-	err := decoder.Decode(&configuration)
-	if err != nil {
-		fmt.Println("error:", err)
-	}
-	return configuration
+func getConfiguration() map[string]interface{} {
+	var parsedData map[string]interface{}
+	parsedData = make(map[string]interface{})
+	parsedData = goconf.Parse("twitter.conf")
+	return parsedData
 }
 
 func main() {
-	configuration := getConfiguration()
-	anaconda.SetConsumerKey(configuration.ConsumerKey)
-	anaconda.SetConsumerSecret(configuration.ConsumerSecret)
-	api := anaconda.NewTwitterApi(configuration.AccessToken, configuration.AccessTokenSecret)
+	var configuration map[string]interface{}
+	configuration = make(map[string]interface{})
+	configuration = getConfiguration()
+
+	ConsumerKey, _ := configuration["ConsumerKey"].(string)
+	ConsumerSecret, _ := configuration["ConsumerSecret"].(string)
+	AccessToken, _ := configuration["AccessToken"].(string)
+	AccessTokenSecret, _ := configuration["AccessTokenSecret"].(string)
+
+	anaconda.SetConsumerKey(ConsumerKey)
+	anaconda.SetConsumerSecret(ConsumerSecret)
+	api := anaconda.NewTwitterApi(AccessToken, AccessTokenSecret)
 
 	v := url.Values{}
 	v.Set("count", "100")
