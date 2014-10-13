@@ -1,5 +1,11 @@
 Monday 13 October to Friday 17 October
 
+- Projects: Goconf, Simple programs in Haskell, Working on T@NYU angular app, Intermediate Go web development, and analysis of Crunchbase data
+- Programming: Node.JS, Go, Haskell, AngularJS
+- Frameworks: AngularJS
+- Classwork: Compiler Homework 6, Reading Darwin & Quantification, Quantification & Darwin Response Papers
+- Reading: The Origin of Species
+
 Monday 6 October to Friday 10 October
 
 - Projects: Wikipedia Graph, Simple programs in Haskell, Building a web framework in Go
