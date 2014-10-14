@@ -1,0 +1,4 @@
+- Haproxy, Nginx, etc.
+	- Nginx likes buffering when it talks to back-end services.
+- Useful for other routing, file serving
+- Watch out for buffering, web sockets, etc.
