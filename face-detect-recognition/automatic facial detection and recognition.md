@@ -25,7 +25,7 @@ Lastly, there is **matching/classification**. This is the step where we take the
 
 Lets say we want to extract features from the face. Now that we've detected and normalized the face, we have a image of the face itself - something like the one shown below.
 
-<img src="./images/face_detect_image.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="./face_detect_image.jpg" alt="Drawing" style="width: 100px;"/>
 
 There are many features we can extract from an image of the face. Lets list some potential things we can use to compare our image to another image.
 
