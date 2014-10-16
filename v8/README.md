@@ -1,1 +1,4 @@
-`make builddeps` `make ia32.release`
+- `make builddeps` `make ia32.release`
+- Primitives in v8 (http://izs.me/v8-docs/classv8_1_1Primitive.html):
+	- Boolean, Number, String
+		- Number: Integer, Int32, UInt32
