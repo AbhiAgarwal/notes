@@ -14,6 +14,7 @@ Projects
 	- Figure out and test ways to get correct weights
 - Analysis of Instagram pictures to predict male/female.
 	- Built on Python
+	- Using some R
 
 **Plain ideas**
 
