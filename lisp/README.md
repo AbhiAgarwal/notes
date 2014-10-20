@@ -1,0 +1,1 @@
+- "In Lisp, you don't just write your program down toward the language, you also build the language up toward your program. As you're writing a program you may think "I wish Lisp had such-and-such an operator." So you go and write it." - http://www.paulgraham.com/progbot.html
