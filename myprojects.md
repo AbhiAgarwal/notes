@@ -15,6 +15,8 @@ Projects
 - Analysis of Instagram pictures to predict male/female.
 	- Built on Python
 	- Using some R
+- Analysis of daily actions
+	- Node.JS with a ton of APIs
 
 **Plain ideas**
 
