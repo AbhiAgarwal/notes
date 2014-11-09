@@ -5,18 +5,16 @@ Projects
 
 - Learnt.io, memory retention
 	- NodeJS, MongoDB, Dynamo (Personal), and I think a graph database in the future
-- ~~Mapping Links of Wikipedia articles~~
-	- ~~Primary built ontop of Python, MongoDB, Graphviz, and Python shelves~~
-	- ~~Secondary built ontop of Python, Redis, and Graphviz.~~
-	- Built ontop of Python, and Neo4j
-	- Turn into a directed graph
-	- Built this, and graphed this -> Look for imporvements.
-	- Figure out and test ways to get correct weights
-- Analysis of Instagram pictures to predict male/female.
-	- Built on Python
-	- Using some R
+	- ~~Mapping Links of Wikipedia articles~~
+		- ~~Primary built ontop of Python, MongoDB, Graphviz, and Python shelves~~
+		- ~~Secondary built ontop of Python, Redis, and Graphviz.~~
+		- Built ontop of Python, and Neo4j
+		- Turn into a directed graph
+		- Built this, and graphed this -> Look for imporvements.
+		- Figure out and test ways to get correct weights
 - Analysis of daily actions
 	- Node.JS with a ton of APIs
+	- Custom built APIs as well
 
 **Plain ideas**
 
@@ -31,6 +29,10 @@ Projects
 	- Visualizations of what species are left now comparing to what started with for each specific species?
 
 **Saved**
+
+- Analysis of Instagram pictures to predict male/female.
+	- Built on Python
+	- Using some R
 
 - Gamification Library 
 	- Built in NodeJS.
