@@ -1,3 +1,11 @@
+Monday 20 October to Friday 21 November
+
+- Projects: Context, Go-spotify, Tech@NYU Angular, Go web devleopment, Node.JS for work, sentimental analysis of Yelp reviews
+- Programming: Node.JS, Python, Haskell, AngularJS, Go, and C++
+- GS Interview, and a couple others
+- Classwork: 2 Essays, 10-12 response papers, and Compiler 2a/2b.
+- Reading: https://www.goodreads.com/user/show/35652020-abhi-agarwal
+
 Monday 13 October to Friday 17 October
 
 - Projects: Goconf, Simple programs in Haskell, Working on T@NYU angular app, Intermediate Go web development, and analysis of Crunchbase data
