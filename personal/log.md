@@ -1,8 +1,12 @@
 Monday 20 October to Friday 21 November
 
-- Projects: Context, Go-spotify, Tech@NYU Angular, Go web devleopment, Node.JS for work, sentimental analysis of Yelp reviews
-- Programming: Node.JS, Python, Haskell, AngularJS, Go, and C++
-- GS Interview, and a couple others
+- Projects: Context, Go-spotify, Tech@NYU Angular, Go web devleopment, Node.JS for work, sentimental analysis of Yelp reviews, and self-quantification platform (api.abhi.co).
+  - https://github.com/AbhiAgarwal/compiler
+  - https://github.com/AbhiAgarwal/context
+  - https://github.com/AbhiAgarwal/yelp-nlp
+  - https://github.com/AbhiAgarwal/goconf
+- Programming: Node.JS, Python, Haskell, Javascript, AngularJS, Go, and C++
+- Interviews: GS, and a couple others
 - Classwork: 2 Essays, 10-12 response papers, and Compiler 2a/2b.
 - Reading: https://www.goodreads.com/user/show/35652020-abhi-agarwal
 
