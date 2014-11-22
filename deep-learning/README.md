@@ -1,0 +1,1 @@
+- Called "Deep" because these neural networks have 10's and 100's of layers that span across the network.
