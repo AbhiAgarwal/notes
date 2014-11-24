@@ -15,6 +15,9 @@ Projects
 - Analysis of daily actions
 	- Node.JS with a ton of APIs
 	- Custom built APIs as well
+- Spotify History in Go
+	- Building a simple app that records the songs you listen to and exports them
+	- Build a better prediction platform than spotify has?
 
 **Plain ideas**
 
