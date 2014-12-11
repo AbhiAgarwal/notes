@@ -18,6 +18,8 @@ Projects
 - Spotify History in Go
 	- Building a simple app that records the songs you listen to and exports them
 	- Build a better prediction platform than spotify has?
+- Doing analysis on Harry Potter books
+	- Looking through the text in that book to make observations.
 
 **Plain ideas**
 
