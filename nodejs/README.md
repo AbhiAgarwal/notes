@@ -1,3 +1,10 @@
+General notes
+
+- Don't use `const` in strict mode.
+- There exists a harmony mode:
+	- `node --harmony`
+- Any unhandled exception thrown in Node will halt the process. The exception output shows the offending file, and the line number and position of the exception.
+
 From this talk: https://www.youtube.com/watch?v=jsiqvXi3qSA
 
 Common uses for Node
