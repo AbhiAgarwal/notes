@@ -35,6 +35,9 @@ Projects
 
 **Saved**
 
+- Twitter people do +1 when someone says something good (or +2 whatever.)
+	- Go through Tweets and give people points on how many +1's they get in their replies.
+
 - Analysis of Instagram pictures to predict male/female.
 	- Built on Python
 	- Using some R
