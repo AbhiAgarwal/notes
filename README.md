@@ -16,7 +16,7 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 
 - Algorithm Design
 - Artificial Intelligence (NLP, Vision, Speech, Movement)
-- Robotics (Mechanics, Electrical, Computer)
+- Robotics (Mechanics, Electrical, Computer, MQTT Protocol (Message Queue Telemetry Transport))
 - Parallel Programming (OpenCL, OpenMP, CUDA)
 - Languages (~~Node.js, Javascript, Python,~~ Haskell, ~~Java, C++~~)
 - Computer Vision (OpenCV), and Computer Graphics
