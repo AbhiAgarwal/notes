@@ -1,3 +1,5 @@
+# MOVED to http://abhiagarwal.com/chronology
+
 Monday 20 October to Friday 21 November
 
 - Projects: Context, Go-spotify, Tech@NYU Angular, Go web devleopment, Node.JS for work, sentimental analysis of Yelp reviews, and self-quantification platform (api.abhi.co).

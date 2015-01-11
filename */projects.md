@@ -15,9 +15,6 @@ Projects
 - Analysis of daily actions
 	- Node.JS with a ton of APIs
 	- Custom built APIs as well
-- Spotify History in Go
-	- Building a simple app that records the songs you listen to and exports them
-	- Build a better prediction platform than spotify has?
 - Doing analysis on Harry Potter books
 	- Looking through the text in that book to make observations.
 
@@ -34,6 +31,13 @@ Projects
 	- Visualizations of what species are left now comparing to what started with for each specific species?
 
 **Saved**
+
+- Spotify History in Go
+	- Building a simple app that records the songs you listen to and exports them
+	- Build a better prediction platform than spotify has?
+
+- Twitter people do +1 when someone says something good (or +2 whatever.)
+	- Go through Tweets and give people points on how many +1's they get in their replies.
 
 - Analysis of Instagram pictures to predict male/female.
 	- Built on Python
