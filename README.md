@@ -65,6 +65,14 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 14. Micro-controllers
 15. Machine Learning & Data Analysis
 
+<p>NoSQL Databases</p>
+
+1. Relational (PostgreSQL)
+2. Key-Value (Riak, Redis)
+3. Columnar (HBase)
+4. Document (MongoDB, CouchDB)
+5. Graph (Neo4J, Polyglot)
+
 <p>Build Systems</p>
 
 1. Makefile
