@@ -29,6 +29,13 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 - Competitive Programming (~~UVA, Algorithmic efficiency~~)
 - Data Compression techniques (Lossy, Lossless Compression, and theory (Entropy, etc. ))
 
+<p>Technical things to learn</p>
+
+- Web application analysis tools (Fiddler, Wireshark, and Chrome Dev Tools)
+- Test automation frameworks (Selenium, QTP)
+- Ticketing software (TFS, JIRA, and Trac)
+- Service discovery (Consul)
+
 <p>Interests in understanding these concepts</p>
 
 - Brain (Visual cortex -> V1, V2, ..., Neurons, etc)
