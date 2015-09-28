@@ -73,6 +73,10 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 4. Document (MongoDB, CouchDB)
 5. Graph (Neo4J, Polyglot)
 
+Mobile
+
+1. React Native
+
 <p>Build Systems</p>
 
 1. Makefile
