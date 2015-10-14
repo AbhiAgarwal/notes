@@ -1,0 +1,8 @@
+- https://en.wikipedia.org/wiki/AI@50
+- https://en.wikipedia.org/wiki/List_of_timelines#Computers_and_related_technology
+- https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science
+- https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
+- https://en.wikipedia.org/wiki/Timeline_of_artificial_intelligence
+- https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects
+- https://en.wikipedia.org/wiki/List_of_emerging_technologies#Neuroscience
+- https://en.wikipedia.org/wiki/Philosophy_of_artificial_intelligence#Can_a_machine_have_emotions.3F

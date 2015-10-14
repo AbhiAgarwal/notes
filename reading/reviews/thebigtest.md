@@ -1,0 +1,11 @@
+Lemann rights that standardized testing leads to K-12 schooling becoming a race rather than a reward for learning, and I think this is the central point that resonates with me. Individuals are racing to get into a selective college and gain those perks of going there rather than concentrating on the learning experience, and understanding that university education is something that builds upon your K-12 education, and concentrate on not just the name. K-12 education in the US is also built for the SAT rather than the SAT being built for the K-12 education system as the purpose of high-school is to help you get into a good university.
+
+Does there need to be a way for universities to decide how intelligent individuals are compared to each other? People usually are intelligent in different ways, and it's quite hard to measure individuals solely based upon their ability to do mathematics, writing, and reading. 
+
+Is it because of convenience that people aren't doing anything about it? Universities don't want to change it because they've developed comprehensive systems for admission, and are they willing to change those systems?
+
+Is it really the right test for the different subjects we have in this generation? Is it more convenient then having a test administrated for your own university? If so what is the problem for people to do so? Is it because they just like the SAT or is it a problem with data?
+
+Even though the ACT is publicized as a way for science students to do well (because it's a different skill) is it still the right way we want to go? Are they both really the answer to test how talented people to get into their universities?
+
+The fact that universities generally allow for a +- 60 points for foreign students just shows how not standard the system is to the rest of the world applying to the US universities. It's been tested on and developed specifically for a certain curriculum that people follow during their school system, which decreases the flexibility of how the school system is able to change their curriculum and forces them to follow what the governments give them. Is this right? The aim of high-school students is to prepare to get into university by taking the test - should this be the aim of these individuals or should we be promoting them to learn and do well?

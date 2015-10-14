@@ -1,0 +1,6 @@
+- Darwin tested everything. 
+  - To check if seeds would reach different islands and grow there he actually took seeds and put them in water for 5-6 months. 
+  - He checked how long it would take to get from mainland -> island
+  - He put the seeds in water for that long, and different types of seeds. He used the same seeds that would be found there
+  - He took them out after those 5-6 months and tried to grow them.
+  - He was detailed and thorough on his research, and he wanted to validate things for himself.

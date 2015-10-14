@@ -1,0 +1,1 @@
+This reading demonstrates how the need for people to quantify their expectations lead to classical probability, and its development from being used in insurance and gambling to being used in mathematical theories and in making sense of of why people did what they did.

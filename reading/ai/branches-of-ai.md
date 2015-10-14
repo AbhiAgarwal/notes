@@ -1,0 +1,22 @@
+### Branches of artificial intelligence 
+
+- Symbolic
+	- Good Old Fashioned AI
+- Sub-symbolic
+	- Early cybernetics and brain simulation
+	- Behavior based AI
+		- Subsumption architecture
+	- Nouvelle AI
+	- Computational intelligence (CI)
+		- Computational creativity –
+		- Neural networks –
+			- Hybrid neural network –
+			- Recurrent neural network –
+		- Fuzzy systems –
+		- Evolutionary computation, including:
+			- Evolutionary algorithms –
+				- Genetic algorithm –
+			- Brain Emotional Learning Based Intelligent Controller
+			- Swarm intelligence –
+				- Ant colony optimization –
+- Statistical AI
