@@ -19,12 +19,12 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 - Robotics (Mechanics, Electrical, Computer, MQTT Protocol (Message Queue Telemetry Transport))
 - Parallel Programming (OpenCL, OpenMP, CUDA)
 - Languages (~~Node.js, Javascript, Python,~~ Haskell, ~~Java, C++~~)
-- Computer Vision (OpenCV), and Computer Graphics
+- Computer Vision (~~OpenCV~~), and Computer Graphics
 - Machine Learning (Theory, Frameworks (scikit-learn, etc), and Kaggle Implementations)
 - Deep Learning (Neural nets)
-- Mathematics (Linear Algebra, Inequality, Dimensionality, Calculus)
+- Mathematics (~~Linear Algebra~~, Inequality, Dimensionality, Calculus)
 - Physics (Kinemetics)
-- Simulation (~~N-body, Diseases, Traffic~~, Movement, Social)
+- Simulation (~~N-body, Diseases, Traffic~~, Movement, ~~Social~~)
 - Networking (Packets, TCP/IP, Packet Sniffing)
 - Competitive Programming (~~UVA, Algorithmic efficiency~~)
 - Data Compression techniques (Lossy, Lossless Compression, and theory (Entropy, etc. ))
@@ -33,7 +33,7 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 
 - Web application analysis tools (Fiddler, Wireshark, and Chrome Dev Tools)
 - Test automation frameworks (Selenium, QTP)
-- Ticketing software (TFS, JIRA, and Trac)
+- Ticketing software (TFS, ~~JIRA~~, and Trac)
 - Service discovery (Consul)
 
 <p>Interests in understanding these concepts</p>
@@ -52,13 +52,13 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
     - ~~Grep~~
 4. ~~Vim~~
 5. ~~NoSQL/SQL~~
-6. AWS
+6. AWS (getting there), ~~Rackspace~~, ~~Linode~~
 7. Unit testing
     - Browser testing
     - Test environments
 8. Graph Theory
 9. Distributed Systems
-10. Map/reduce
+10. ~~Map/reduce~~ (basic)
 11. ~~LaTeX~~
 12. Design Patterns
 13. Memory Management
@@ -75,7 +75,7 @@ Concentration on languages: C++, Javascript, and Go. I'm just going to be using 
 
 Mobile
 
-1. React Native
+1. ~~React Native~~ (very basic understanding!)
 
 <p>Build Systems</p>
 
